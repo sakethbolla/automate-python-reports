@@ -1,4 +1,4 @@
-# Automated Excel Reporting Tool
+# Automated Excel Creation Tool using Python
 
 This project provides a solution to automate the process of generating reports from Excel data. It specifically targets the creation of pivot tables and bar charts, streamlining the workflow for analysis and presentation.
 
@@ -48,12 +48,3 @@ python 00_one_report.py
 Automated pivot table creation from raw Excel data.
 Bar chart generation based on the pivot table data.
 Output saved as an enhanced Excel file with the pivot table and chart included.
-
-### Help
-If you encounter any issues, check the db directory to ensure your Excel data file is named correctly and placed in the correct path.
-
-### Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
